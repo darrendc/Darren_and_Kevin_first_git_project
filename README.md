@@ -1,13 +1,28 @@
 # My 4 Favorite Ruby methods
-  ### `push`
+
+### `push`
   adds `new` item to the end of the array
-  ```anything.push
-  ### `shovel`
+
+  ```
+  anything.push
+  ```
+
+### `shovel`
   adds new item to the end of the array
-  ```anything >>
-  ### `yield`
+
+  ```
+  anything >>
+  ```
+
+### `yield`
   loop within a loop
-  ```yield[i]
-  ### `upcase`
+
+  ```
+  yield[i]
+  ```
+### `upcase`
   all capitals
-  ```anything.upcase
+
+  ```
+  anything.upcase
+  ```
